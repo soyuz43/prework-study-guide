@@ -6,7 +6,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
+    background-color: #91058F;
     color: white;
 }
 
@@ -29,4 +29,9 @@ p {
     text-align: center;
     font-size: 30px;
   }
-  
+  .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #91058F;
+    box-shadow: 5px 10px #888888;
+  }
